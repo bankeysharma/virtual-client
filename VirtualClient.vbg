@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=Server\Virtual Client Server.vbp
+Project=Client 9x\VirtualClient Client 9x.vbp
